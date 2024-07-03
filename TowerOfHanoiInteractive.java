@@ -12,10 +12,7 @@ public class TowerOfHanoiInteractive {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter the number of disks:");
-        int numberOfDisks = scanner.nextInt();
-        
+        int numberOfDisks = 4;
         TowerOfHanoiInteractive towersOfHanoi = new TowerOfHanoiInteractive();
         towersOfHanoi.solve(numberOfDisks, "A", "B", "C");
     }
