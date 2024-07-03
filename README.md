@@ -3,7 +3,8 @@
 Author - Taniya Adhikari
 <br>
 <h1>Project Overview</h1>
-The Tower of Hanoi is a classic problem that involves moving a set of disks from one peg to another, following specific rules. This project will implement the Tower of Hanoi algorithm and display the process visually using Java's Swing library for the GUI.
+The Tower of Hanoi is a classic problem that involves moving a set of disks from one peg to another, following specific rules.<br>
+This project will implement the Tower of Hanoi algorithm and display the process visually using Java's Swing library for the GUI.
 <br>
 <h1>Steps to Solve Tower of Hanoi using Recursion:</h1>
 <br>
